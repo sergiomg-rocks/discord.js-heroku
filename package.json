@@ -1,5 +1,5 @@
 {
-  "name": "Minimum-test-discord.js-heroku",
+  "name": "minimum-test-discord.js-heroku",
   "version": "1.0.0",
   "description": "Deploy prototype discord.js-heroku for mr",
   "main": "index.js",
@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/synicalsyntax/discord.js-heroku#readme",
   "dependencies": {
-    "discord.js": "^11.3.0"
+    "discord.js": "^11.6.4"
   }
 }
