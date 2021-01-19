@@ -26,6 +26,8 @@
     },
     "homepage": "https://github.com/synicalsyntax/discord.js-heroku#readme",
     "dependencies": {
-        "discord.js": "^11.6.4"
+        "canvas": "^2.6.1",
+        "discord.js": "^12.2.0",
+        "express": "^4.17.1"
     }
 }
