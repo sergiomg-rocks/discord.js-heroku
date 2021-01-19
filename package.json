@@ -1,7 +1,7 @@
 {
     "name": "mrs-bot",
     "version": "1.0.0",
-    "description": "Discord.js bot on Heroku",
+    "description": "Discord.js NoCode",
     "main": "index.js",
     "engines": {
         "node": "8.x",
