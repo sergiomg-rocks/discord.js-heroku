@@ -1,10 +1,10 @@
 {
-  "name": "discord.js-heroku",
+  "name": "Minimum-test-discord.js-heroku",
   "version": "1.0.0",
-  "description": "An in-depth guide on deploying your Discord.js bot on Heroku",
+  "description": "Deploy prototype discord.js-heroku for mr",
   "main": "index.js",
   "engines": {
-    "node": "8.x",
+    "node": "15.x",
     "npm": "*"
   },
   "scripts": {
